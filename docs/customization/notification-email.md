@@ -22,7 +22,7 @@ You can change the name of the sender of the notification email.
 Create a hidden input with the name `_email.from`.
 
 ```html
-<input type="hidden" name="_email.from" value="John Doe" />
+<input type="hidden" name="_email.from" value="Taiwo" />
 ```
 
 The value must only contain alphanumeric characters, spaces, dashes and underscores.
